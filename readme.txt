@@ -1,4 +1,4 @@
-Сборка:
+Сборка (необходима библиотека SDL2):
 > mkdir build
 > cd build
 > cmake ..
